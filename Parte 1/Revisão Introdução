@@ -1,0 +1,55 @@
+1.1 Qual é, em termos gerais, a distinção entre a organização e a arquitetura do computador?
+
+"Arquitetura de computador":
+
+" arquitetura de computador refere-se aos atributos de um sistema visível a um programdor, causando impacto direto a um programa executavel.
+Ex: Conjunto de instruções, numéro de bits alocados na memória, mecanismos de entrada/saída e tecnicas de endereçamento."
+
+"Organização de computador":
+
+"Organização de computador refere-se às unidades operacionais e suas interconexões que realizam especificações arquiteturais.
+Ex: Atributos organizacionais incluem os detalhes do hardware trasparentes ao programador, como sinais de controle, interfaces entre o computador e periféricos e a tecnologia de memória utilizada."
+
+
+1.2 Qual é, em termos gerais, a distinção entre a estrutura e a função do computador?
+
+"Estrutura: o modo como os componentes são inter-relacionados."
+
+"Função: a operação individual de cada componente como parte da estrutura."
+
+
+1.3 Quais são as quatro funções principais de um computador?
+
+"Processamento de Dados, Armazenamento de dados, Movimento de dados e Controle."
+
+1.4 Liste e defina resumidamente os principais componentes estruturais de um computador.
+
+"O computador interage de alguma
+forma com seu ambiente externo. Em geral, todas essas ligações com o ambiente externo podem ser classifi cadas
+como dispositivos periféricos ou linhas de comunicação. Teremos algo a dizer sobre os dois tipos de ligação."
+
+"Os 4 componentes estruturais:
+	
+	-Unidade central de processamento (CPU): Controla a operação do computador e realiza suas funções de processamento de dados. = Processador
+	
+	-Memória Principal: Armazena Dados.
+
+	-Entrada/Saída or E/S: Move dados entre o computador e seu ambiente externo.
+
+	-Interconexão do sistema: Algum mecanismo que oferece comunicação entre CPU, memória principal e E/S.
+"
+
+
+1.5 Liste e defina resumidamente os principais componentes estruturais de um processador.
+
+"Os 4 componentes estruturais de um processador:
+
+	-Unidade de Controle: controla a operação da CPU e, portanto, do computador.
+	
+	-Unidade aritmética e lógica (ALU): Realiza as funções de processamento de dados do computador.
+
+	-Registradores: Oferece armazenamento interno à CPU.
+
+	-Interconexão da CPU: Algum mecanismo que oferece comunicação entre unidade de controle, ALU e registradores.
+"
+

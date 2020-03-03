@@ -1,0 +1,39 @@
+tecnicas de pipeline =  Várias tarefas sendo executadas simultaneamente usando recursos diferente, dessa forma economizando tempo de processamento da cpu. Porém o tempo para executar cada tarefa continuara o mesmo.
+
+ALU = Uma Unidade Lógica e Aritmética (ULA) é um dispositivo que realiza operações lógicas
+e aritméticas sobre números representados em circuitos lógicos. Tipicamente, uma ULA recebe
+dois operandos como entrada, e uma entrada auxiliar de controle permite especificar qual
+operação deverá ser realizada. Por esse motivo, a construção de uma ULA se baseia em dois
+fundamentos principais: o controle de fluxo de dados e a construçao de circuitos que
+implementam operações
+
+Unidade de Controle = Parte do processador na qual recebe as ordens da entrada e faz redirecionamento para ULA, onde será feitos os cálculos e também recebe os dados de volta da ULA e apresenta eles na saída.
+
+opcode = O código de operação é um tipo de código que informa a máquina o que fazer, ou seja, qual operação para executar. Opcode é um tipo de instrução em linguagem de máquina.
+
+Linguagem de Máquina = é a linguagem de mais baixo nível de entendimento para o ser humano, e a única, entendida pelo processador (UCP). É constituída inteiramente de números (código binário), o que torna praticamente impossível de entende-la. diretamente
+
+transistores = Transístor ou transistor é um dispositivo semicondutor usado para amplificar ou trocar sinais eletrônicos e potência elétrica. É composto de material semicondutor com pelo menos três terminais para conexão a um circuito externo.
+
+cache do processador = A memoria cache é um tipo de memória ultra rápida que armazena os dados e instruções mais utilizadas pelo processador, permitindo que estas sejam acessadas rapidamente. Dessa forma economizando tempo, já que o processador não vai ter que processar essses dados básicos.
+
+multiplexador = multiplexador é um dispositivo que possui múltiplos fluxos de dados na entrada e somente um fluxo de dados na saída. Ele envia um sinal de ativo aos terminais de saída baseado nos valores de uma ou mais "entradas de seleção" e numa entrada escolhida.
+
+circuitos integrados = Em eletrônica, um circuito integrado, microchipe, chipe e nanochipe, abreviadamente CI, é um circuito eletrônico miniaturizado sobre um substrato fino de material semicondutor. Os circuitos integrados são usados em quase todos os equipamentos eletrônicos usados hoje e revolucionaram o mundo da eletrônica.
+
+
+porta AND = Porta lógica AND é uma operação lógica em dois operandos que resulta em um valor lógico verdadeiro somente se todos os operados tem um valor verdadeiro. Equivale a uma multiplicação. Na minha visão isso seria um if.
+
+lei de Moore = Até meados de 1965 não havia nenhuma previsão real sobre o futuro do hardware, quando Gordon E. Moore fez sua profecia, na qual o número de transistores dos chips teria um aumento de 100%, pelo mesmo custo, a cada período de 18 meses. Essa profecia tornou-se realidade e acabou ganhando o nome de Lei de Moore. 
+
+Controlador
+do console = 
+
+Omnibus = 
+
+MEMÓRIA SEMICONDUTORA = Memória Ram
+
+core = um parte do processador
+
+
+
